@@ -1,0 +1,9 @@
+{
+  "name": "parcel-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build index.html"
+  }
+}
